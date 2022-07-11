@@ -12,4 +12,4 @@ projects:
 components:
    - name: ansible-tools
      container:
-       image: quay.io/ansible/creator-ee:latest
+       image: registry.redhat.io/ansible-automation-platform-21/ee-minimal-rhel8:latest
