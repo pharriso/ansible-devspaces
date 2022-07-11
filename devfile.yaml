@@ -3,10 +3,10 @@ metadata:
   generateName: ansible-devspaces
   version: 2.0.0
 projects:
-  - name: ansible-devspaces
+  - name: ansibledevspaces
     git:
       remotes:
-        origin: "https://github.com/pharriso/ansible-devspaces"
+        origin: "https://github.com/pharriso/ansible-devspaces.git"
       checkoutFrom:
         revision: main
 components:
